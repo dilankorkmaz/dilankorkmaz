@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Dilan 👋
 
-<!--
-**dilankorkmaz/dilankorkmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer with 7+ years of experience building scalable web and mobile applications.
 
-Here are some ideas to get you started:
+## Tech Stack
+- React
+- Next.js
+- React Native
+- Java
+- Spring Boot
+- TypeScript
+- PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently
+- Expanding backend expertise with Java & Spring Boot
+- Building scalable REST APIs
+- Working on scalable fullstack systems
+
+## Focus Areas
+- Frontend Architecture
+- Backend Systems
+- Realtime Applications
+- Performance Optimization
+- Enterprise Product Development
